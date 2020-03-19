@@ -1,0 +1,12 @@
+{
+  "worker": "Cowchaser",
+  "data": [
+    {
+      "id": 1,
+      "name": "John",
+      "surname": "Wayne",
+      "job": "cowchaser",
+      "salary": 1223.0
+    }
+  ]
+}
